@@ -611,8 +611,8 @@ function inicio42() {
     window.open("pases/inicio42.html", "_self");        
 }
 
-function LucyAlvarado() {
-    window.open("pases/LucyAlvarado.html", "_self");        
+function inicio43() {
+    window.open("pases/inicio43.html", "_self");        
 }
 function inicio44() {
     window.open("pases/inicio44.html", "_self");        
@@ -1451,7 +1451,7 @@ function copiarinicio34(){
   document.execCommand('paste');
 }
 
- function copiarLucyAlvarado(){
+ function copiarinicio43(){
   var origen = document.getElementById('target43');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
